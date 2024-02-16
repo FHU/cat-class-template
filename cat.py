@@ -7,10 +7,10 @@ class Cat():
         return "Meow"
 
 
-stella.name = Stella 
+stella.name = 'Stella' 
 stella.age = 7
 
-garfield.name = Garfield  
+garfield.name = 'Garfield'  
 garfield.age = 50
 
 print(garfield.speak())
