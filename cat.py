@@ -1,6 +1,6 @@
 #Revmoe pass and complete the cat class
 class Cat():
-    def __init__(self, name='unknown', age=0):
+    def __init__(self, name='Unknown', age=0):
         self.name = name
         self.age = age
     def speak(self):
