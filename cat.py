@@ -15,7 +15,7 @@ garfield.age = 50
 
 print(garfield.speak())
 print(stella.speak())
-#test
+
 
 #Create objects here
 #These should NOT be indented inside the class
